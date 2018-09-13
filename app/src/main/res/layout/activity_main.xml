@@ -87,7 +87,7 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView5" />
 
-    <TextView
+   <!-- <TextView
         android:id="@+id/textView7"
         style="@style/name"
         android:layout_marginTop="20dp"
@@ -111,6 +111,6 @@
         android:text="Noctis wears a black jacket with skull-motif buttons and sequenced details on the pockets. He keeps it unzipped, and the tag on the zipper also has a small skull."
         app:layout_constraintEnd_toStartOf="@+id/imageView3"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView7" />
+        app:layout_constraintTop_toBottomOf="@+id/textView7" />-->
 
 </android.support.constraint.ConstraintLayout>
